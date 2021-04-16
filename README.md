@@ -1,1 +1,1 @@
-# sentimet-aalysing
+# sentiment-analysing
